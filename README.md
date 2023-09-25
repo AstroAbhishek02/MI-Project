@@ -1,5 +1,5 @@
 # MI-Project
-#Stock Market Prediction
+# Stock Market Prediction
 
 This project revolves around the application of machine learning (ML) algorithms to forecast stock market trends and prices by analyzing historical data. It aims to provide investors, traders, and financial analysts with valuable insights to support informed decision-making.
 
